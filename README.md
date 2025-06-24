@@ -25,3 +25,5 @@ This is a Weather App developed as part of my Web Development Internship under t
 ### Day 5: Finalization
 - Added email and phone links
 - Cleaned up styling and deployed using GitHub Pages
+
+- https://pritishacmd.github.io/My-Weather/
